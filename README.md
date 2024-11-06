@@ -1,4 +1,4 @@
- auto_commit.sh：
+ 示例脚本auto_commit.sh：
 
 bash
 复制代码
